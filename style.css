@@ -1,0 +1,1484 @@
+/* background-image */
+
+.background-image {
+    background-image: url("/images/bg1.jpg");
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 50rem;
+    position: relative;
+}
+
+.hero-data {
+    /* position: relative; */
+    text-align: center;
+    color: white;
+    padding-top: 10rem;
+}
+
+.heading-1 {
+    font-size: 10rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.heading-2 {
+    font-size: 3rem;
+}
+
+.view-more {
+    width: 18%;
+    height: 4rem;
+    background-color: rgb(27, 238, 27);
+    color: white;
+    border-style: none;
+    margin-top: 3rem;
+}
+
+.view-more:hover {
+    width: 18%;
+    height: 4rem;
+    background-color: rgb(10, 185, 10);
+    color: white;
+    border-style: none;
+    margin-top: 3rem;
+}
+
+/* parts */
+
+.parts {
+    position: relative;
+    margin-top: 4rem;
+}
+
+.parts-data {
+    text-align: center;
+}
+
+.para-1 {
+    font-size: 1.7rem;
+}
+
+.heading-3 {
+    font-size: 3rem;
+}
+
+
+.parts-cards {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.rice-image {
+    height: 15rem;
+    width: 100%;
+}
+
+.fruiter-image {
+    height: 15rem;
+    width: 100%;
+}
+
+.coffee-image {
+    height: 15rem;
+    width: 100%;
+}
+
+.fruit-image {
+    height: 15rem;
+    width: 100%;
+}
+
+.green-cirle {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50%;
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+
+.green-cirle p {
+    padding-top: 0.5rem;
+    font-size: 2rem;
+}
+
+.text {
+    margin-top: 2rem;
+}
+
+.card-1 {
+    width: 20%;
+    height: 25rem;
+    text-align: center;
+}
+
+.card-2 {
+    width: 20%;
+    height: 25rem;
+    text-align: center;
+}
+
+.card-3 {
+    width: 20%;
+    height: 25rem;
+    text-align: center;
+}
+
+.card-4 {
+    width: 20%;
+    height: 25rem;
+    text-align: center;
+}
+
+/* healthy-tasty */
+.healthy-tasty {
+    width: 100%;
+    height: 40rem;
+    background-color: rgb(217, 245, 235);
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+    padding-top: 5rem;
+    margin-top: 3rem;
+    position: relative;
+}
+
+.heading-4 {
+    font-size: 3rem;
+}
+
+.para-2 {
+    font-size: 1.2rem;
+}
+
+.more-about {
+    width: 45%;
+    height: 3.5rem;
+    background-color: rgb(27, 238, 27);
+    color: white;
+    border-style: none;
+
+}
+
+.more-about:hover {
+    width: 45%;
+    height: 3.5rem;
+    background-color: rgb(10, 185, 10);
+    color: white;
+    border-style: none;
+
+}
+
+.text-healthy {
+    padding-top: 2rem;
+    text-align: center;
+}
+
+.image-healthy img {
+    width: 30rem;
+    height: 30rem;
+    border-radius: 50%;
+}
+
+/* healthy-tasty-reverse */
+.healthy-tasty-reverse {
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+    margin-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.text-healthy-reverse {
+    padding-top: 2rem;
+    text-align: center;
+}
+
+.heading-5 {
+    font-size: 3rem;
+}
+
+.para-3 {
+    font-size: 1.2rem;
+}
+
+.more-about-reverse {
+    width: 45%;
+    height: 3.5rem;
+    background-color: rgb(27, 238, 27);
+    color: white;
+    border-style: none;
+
+}
+
+.more-about-reverse:hover {
+    width: 45%;
+    height: 3.5rem;
+    background-color: rgb(10, 185, 10);
+    color: white;
+    border-style: none;
+
+}
+
+.image-healthy-reverse img {
+    width: 30rem;
+    height: 30rem;
+    border-radius: 50%;
+}
+
+/* background */
+.background {
+    position: relative;
+}
+
+.bg-image {
+    background-image: url("/images/backgroundimage2.jpg");
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 25rem;
+    background-attachment: fixed;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 12rem;
+    width: 100%;
+    height: 25rem;
+    margin-top: -25rem;
+}
+
+.since {
+    padding-top: 7rem;
+    color: white;
+    text-align: center;
+}
+
+.resturant {
+    padding-top: 7rem;
+    color: white;
+    text-align: center;
+}
+
+.follower {
+    padding-top: 7rem;
+    color: white;
+    text-align: center;
+}
+
+.since img {
+    background-color: green;
+    color: white;
+    width: 7rem;
+    height: 7rem;
+    border-radius: 50%;
+    padding: 1rem;
+}
+
+.resturant img {
+    background-color: green;
+    color: white;
+    width: 7rem;
+    height: 7rem;
+    border-radius: 50%;
+    padding: 1rem;
+}
+
+.follower img {
+    background-color: green;
+    color: white;
+    width: 7rem;
+    height: 7rem;
+    border-radius: 50%;
+    padding: 1rem;
+}
+
+.heading-6 {
+    padding-top: 2rem;
+}
+
+/* our impact */
+.impact {
+    position: relative;
+    margin-top: 4rem;
+}
+
+.impact-data {
+    text-align: center;
+}
+
+.para-4 {
+    font-size: 1.7rem;
+}
+
+.heading-7 {
+    font-size: 3rem;
+}
+
+.planet-cards1 {
+    display: flex;
+    justify-content: center;
+    gap: 2.5rem;
+}
+
+.fish-card {
+    text-align: center;
+    padding: 1rem;
+}
+
+.local-card {
+    text-align: center;
+    padding: 1rem;
+}
+
+.organic-card {
+    text-align: center;
+    padding: 1rem;
+}
+
+/* second part */
+.planet-cards2 {
+    display: flex;
+    justify-content: center;
+    gap: 2.5rem;
+}
+
+.pesticide-card {
+    text-align: center;
+    padding: 1rem;
+}
+
+.waste-card {
+    text-align: center;
+    padding: 1rem;
+}
+
+.logistics-card {
+    text-align: center;
+    padding: 1rem;
+}
+
+.cards-image-1 {
+    width: 4rem;
+}
+
+.heading-8 {
+    padding-top: 1rem;
+}
+
+.para-5 {
+    font-size: 1.2rem;
+}
+
+/* they love */
+.they-love {
+    width: 100%;
+    height: 38rem;
+    background-color: rgb(217, 245, 235);
+    padding-top: 3rem;
+    margin-top: 3rem;
+    position: relative;
+}
+
+.love-data {
+    text-align: center;
+}
+
+.para-6 {
+    font-size: 1.7rem;
+}
+
+.heading-9 {
+    font-size: 3rem;
+}
+
+.love-cards {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    padding-top: 4rem;
+}
+
+.love-card1 {
+    width: 41%;
+    height: 20rem;
+    background-color: white;
+    text-align: center;
+}
+
+.girl-image1 {
+    width: 12rem;
+    height: 12rem;
+    border-radius: 50%;
+    object-fit: cover;
+    position: relative;
+    top: -3rem;
+}
+
+.love-card2 {
+    width: 41%;
+    height: 20rem;
+    background-color: white;
+    text-align: center;
+}
+
+.para-7 {
+    margin-top: -1rem;
+    font-size: 1.2rem;
+}
+
+/* food-images */
+.food-images {
+    position: relative;
+    margin-top: 4.5rem;
+}
+
+/* first -three */
+.first-three {
+    display: flex;
+    gap: 1.7rem;
+}
+
+.food1 {
+    width: 32%;
+    height: 12rem;
+}
+
+.food1 img {
+    width: 100%;
+    height: 20rem;
+}
+
+.food2 {
+    width: 32%;
+    height: 17rem;
+}
+
+.food2 img {
+    width: 100%;
+    height: 20rem;
+}
+
+.food3 {
+    width: 32%;
+    height: 17rem;
+}
+
+.food3 img {
+    width: 100%;
+    height: 20rem;
+}
+
+/* second-three */
+.second-three {
+    display: flex;
+    gap: 1.7rem;
+    margin-top: 4.5rem;
+}
+
+.food4 {
+    width: 32%;
+    height: 12rem;
+}
+
+.food4 img {
+    width: 100%;
+    height: 20rem;
+}
+
+.food5 {
+    width: 32%;
+    height: 17rem;
+}
+
+.food5 img {
+    width: 100%;
+    height: 20rem;
+}
+
+.food6 {
+    width: 32%;
+    height: 17rem;
+}
+
+.food6 img {
+    width: 100%;
+    height: 20rem;
+}
+
+/* contacts */
+.contacts {
+    position: relative;
+    top: 5rem;
+}
+
+.contact-image img {
+    width: 19rem;
+    height: 19rem;
+    border-radius: 50%;
+}
+
+.contact {
+    font-size: 3rem;
+    text-align: center;
+    padding-top: 3rem;
+}
+
+.para-8 {
+    padding-top: 1.2rem;
+    font-size: 1.2rem;
+}
+
+.para-9 {
+    padding-top: 1.2rem;
+    font-size: 1.2rem;
+}
+
+.contact-data {
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.form-group input {
+    padding: 0.5rem;
+    width: 75%;
+    border-style: none;
+}
+
+.submit-button {
+    width: 25%;
+    height: 2.7rem;
+    background-color: rgb(27, 238, 27);
+    color: white;
+    border-style: none;
+}
+
+.submit-button:hover {
+    width: 25%;
+    height: 2.7rem;
+    background-color: rgb(10, 185, 10);
+    color: white;
+    border-style: none;
+}
+
+.footer-nicepage {
+    background-color: rgba(51, 51, 51, 255);
+    color: white;
+    text-align: center;
+    padding: 3rem;
+    margin-top: 4rem;
+}
+
+.para-11 {
+    padding-top: 5rem;
+}
+
+.para-11 a {
+    color: rgb(185, 208, 218);
+}
+
+/* for mobile screens */
+@media screen and (max-width: 500px) {
+
+    /* background-image */
+    .background-image {
+        background-position: center;
+        background-size: cover;
+        width: 100%;
+        height: 25rem;
+        position: relative;
+    }
+
+    .heading-1 {
+        text-align: center;
+        font-size: 3rem;
+    }
+
+    .heading-2 {
+        text-align: center;
+        font-size: 1.3rem;
+    }
+
+    .view-more {
+        width: 50%;
+        height: 3.5rem;
+        margin-top: 1rem;
+    }
+
+    /* parts */
+    .heading-3 {
+        font-size: 2rem;
+    }
+
+    .parts-cards {
+        position: relative;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .card-1 {
+        width: 80%;
+        margin-top: 1rem;
+        position: relative;
+        left: 10%;
+    }
+
+    .card-2 {
+        width: 80%;
+        margin-top: -2rem;
+        position: relative;
+        left: 10%;
+    }
+
+    .card-3 {
+        width: 80%;
+        margin-top: -2rem;
+        position: relative;
+        left: 10%;
+    }
+
+    .card-4 {
+        width: 80%;
+        margin-top: -2rem;
+        position: relative;
+        left: 10%;
+    }
+
+    /* healthy-tasty */
+    .healthy-tasty {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        gap: 10rem;
+        width: 100%;
+        height: 57rem;
+        position: relative;
+    }
+
+    .text-healthy {
+        height: 30rem;
+        width: 70%;
+        position: relative;
+        left: 15%;
+        text-align: center;
+        margin-top: -5rem;
+    }
+
+    .heading-4 {
+        font-size: 1.5rem;
+    }
+
+    .para-2 {
+        font-size: 1rem;
+    }
+
+    .more-about {
+        width: 80%;
+    }
+
+    .image-healthy {
+        margin-top: -3rem;
+        height: 15rem;
+        width: 15rem;
+        border-radius: 50%;
+        position: relative;
+        left: 10%;
+        text-align: center;
+        width: 80%;
+    }
+
+    .image-healthy img {
+        height: 15rem;
+        width: 15rem;
+        border-radius: 50%;
+    }
+
+    /* healthy-tasty-reverse */
+    .healthy-tasty-reverse {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        gap: 10rem;
+        width: 100%;
+        height: 50rem;
+        position: relative;
+    }
+
+    .image-healthy-reverse {
+        margin-top: -6rem;
+        height: 15rem;
+        width: 15rem;
+        border-radius: 50%;
+        position: relative;
+        left: 10%;
+        text-align: center;
+        width: 80%;
+    }
+
+    .image-healthy-reverse img {
+        height: 15rem;
+        width: 15rem;
+        border-radius: 50%;
+    }
+
+    .text-healthy-reverse {
+        height: 30rem;
+        width: 70%;
+        position: relative;
+        left: 15%;
+        text-align: center;
+        margin-top: -10rem;
+    }
+
+    .more-about-reverse {
+        width: 80%;
+    }
+
+    .heading-5 {
+        font-size: 1.5rem;
+    }
+
+    .para-3 {
+        font-size: 1rem;
+    }
+
+    /* background */
+    .background {
+        position: relative;
+    }
+
+    .bg-image {
+        width: 100%;
+        height: 33rem;
+        background-position: center;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+
+    .cards {
+        display: flex;
+        justify-content: center;
+        gap: 0.1rem;
+        flex-direction: column;
+        width: 100%;
+        height: 33rem;
+        margin-top: -33rem;
+    }
+
+    .since {
+        width: 80%;
+        height: 10rem;
+        color: white;
+        text-align: center;
+        position: relative;
+        text-align: center;
+        left: 10%;
+    }
+
+    .resturant {
+        width: 80%;
+        height: 10rem;
+        color: white;
+        text-align: center;
+        position: relative;
+        left: 10%;
+    }
+
+    .follower {
+        width: 80%;
+        height: 10rem;
+        color: white;
+        text-align: center;
+        position: relative;
+        left: 10%;
+    }
+
+    .since img {
+        background-color: rgb(27, 238, 27);
+        color: white;
+        width: 5rem;
+        height: 5rem;
+        border-radius: 50%;
+        margin-top: -10rem;
+    }
+
+    .resturant img {
+        background-color: rgb(27, 238, 27);
+        color: white;
+        width: 5rem;
+        height: 5rem;
+        border-radius: 50%;
+        margin-top: -10rem;
+    }
+
+    .follower img {
+        background-color: rgb(27, 238, 27);
+        color: white;
+        width: 5rem;
+        height: 5rem;
+        border-radius: 50%;
+        margin-top: -10rem;
+    }
+
+    .heading-6 {
+        font-size: 1.2rem;
+        margin-top: -4rem;
+    }
+
+    /* our impact */
+    .impact {
+        position: relative;
+    }
+
+    .heading-7 {
+        font-size: 2rem;
+    }
+
+    .planet-cards1 {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .planet-cards2 {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        margin-top: -1rem;
+    }
+
+    .fish-card {
+        margin-top: 1rem;
+    }
+
+    .local-card {
+        margin-top: -4rem;
+    }
+
+    .organic-card {
+        margin-top: -4rem;
+    }
+
+    .waste-card {
+        margin-top: -4rem;
+    }
+
+    .logistics-card {
+        margin-top: -4rem;
+    }
+
+    /* they love */
+    .they-love {
+        position: relative;
+        height: 62rem;
+    }
+
+    .heading-9 {
+        font-size: 2rem;
+    }
+
+    .love-cards {
+        display: flex;
+        justify-content: center;
+        gap: 2rem;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .love-card1,
+    .love-card2 {
+        height: 23rem;
+        width: 80%;
+    }
+
+    .girl-image1 {
+        width: 10rem;
+        height: 10rem;
+        border-radius: 50%;
+        object-fit: cover;
+        position: relative;
+        top: -3rem;
+    }
+
+    .para-7 {
+        text-align: center;
+        padding: 0.5rem;
+    }
+
+    /* food-images */
+    .first-three {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .food1 {
+        width: 45.7%;
+    }
+
+    .food1 img {
+        width: 100%;
+        height: 10rem;
+    }
+
+    .food2 {
+        width: 45.7%;
+    }
+
+    .food2 img {
+        width: 100%;
+        height: 10rem;
+    }
+
+    .food3 {
+        width: 45.7%;
+        margin-top: -7rem;
+    }
+
+    .food3 img {
+        width: 100%;
+        height: 10rem;
+    }
+
+    .second-three {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin-top: -5rem;
+    }
+
+    .food4 {
+        width: 45.7%;
+        position: relative;
+        top: -12rem;
+        left: 54.5%;
+    }
+
+    .food4 img {
+        width: 100%;
+        height: 10rem;
+    }
+
+    .food5 {
+        width: 45.7%;
+        position: relative;
+        right: 54.5%;
+    }
+
+    .food5 img {
+        width: 100%;
+        height: 10rem;
+    }
+
+    .food6 {
+        width: 45.7%;
+        position: relative;
+        top: -18.7rem;
+        left: 54.5%;
+    }
+
+    .food6 img {
+        width: 100%;
+        height: 10rem;
+    }
+
+    /* contacts */
+    .contacts {
+        position: relative;
+        top: -23rem;
+    }
+
+    .contact {
+        font-size: 2rem;
+    }
+
+    .contact-data {
+        display: flex;
+        justify-content: center;
+        gap: 1rem;
+        flex-direction: column;
+    }
+
+    .contact-image {
+        width: 80%;
+        margin-top: -2rem;
+        margin-left: 10%;
+    }
+
+    .contact-image img {
+        width: 70%;
+        height: 70%;
+        border-radius: 50%;
+        margin-left: 15%;
+    }
+
+    .contact-form {
+        width: 80%;
+        margin-left: 10%;
+        margin-top: 1rem;
+    }
+
+    .para-8 {
+        text-align: center;
+        font-size: 1.4rem;
+    }
+
+    .para-9 {
+        font-size: 1.4rem;
+    }
+
+    .contact-form input {
+        margin-top: 1rem;
+        padding: 0.8rem;
+        width: 100%;
+    }
+
+    .submit-button {
+        width: 100%;
+        margin-top: 1rem;
+        padding: 1rem;
+    }
+
+    /* footer */
+    .footer-nicepage {
+        margin-top: -22rem;
+    }
+}
+
+
+/* for tablet and laptop screens */
+@media (min-width: 768px) and (max-width: 1024px) {
+
+    /* background-image */
+    .background-image {
+        width: 100%;
+        height: 27rem;
+        background-position: center;
+        background-size: cover;
+        position: relative;
+    }
+
+    .heading-1 {
+        text-align: center;
+        font-size: 7rem;
+        margin-top: -5rem;
+    }
+
+    .heading-2 {
+        text-align: center;
+        font-size: 2.5rem;
+    }
+
+    .view-more {
+        width: 30%;
+        height: 3.5rem;
+        margin-top: 1rem;
+    }
+
+    .view-more :hover {
+        background-color: rgb(10, 185, 10);
+    }
+
+    /* parts */
+    .heading-3 {
+        font-size: 3rem;
+    }
+
+    .parts-cards {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+
+    .card-1 {
+        width: 45%;
+    }
+
+    .card-2 {
+        width: 45%;
+    }
+
+    .card-3 {
+        width: 45%;
+    }
+
+    .card-4 {
+        width: 45%;
+    }
+
+    /* healthy-tasty */
+    .text-healthy {
+        height: 30rem;
+        width: 70%;
+        position: relative;
+        left: 9%;
+        text-align: center;
+        margin-top: -2rem;
+    }
+
+    .heading-4 {
+        font-size: 2.5rem;
+    }
+
+    .para-2 {
+        font-size: 1rem;
+    }
+
+    .more-about {
+        width: 70%;
+    }
+
+    .more-about:hover {
+        background-color: rgb(10, 185, 10);
+        ;
+    }
+
+    .image-healthy {
+        margin-top: 8rem;
+        border-radius: 50%;
+        position: relative;
+        text-align: center;
+        width: 80%;
+        right: 1%;
+    }
+
+    .image-healthy img {
+        height: 16.5rem;
+        width: 16.5rem;
+        border-radius: 50%;
+    }
+
+    /* healthy-tasty-reverse */
+    .healthy-tasty-reverse {
+        padding-bottom: 8rem;
+    }
+
+    .image-healthy-reverse {
+        margin-top: 8rem;
+        border-radius: 50%;
+        position: relative;
+        text-align: center;
+        width: 80%;
+    }
+
+    .image-healthy-reverse img {
+        height: 16.5rem;
+        width: 16.5rem;
+        border-radius: 50%;
+    }
+
+    .text-healthy-reverse {
+        height: 30rem;
+        width: 70%;
+        position: relative;
+        right: 9%;
+        text-align: center;
+        margin-top: -2rem;
+    }
+
+    .more-about-reverse {
+        width: 70%;
+    }
+
+    .heading-5 {
+        font-size: 2.5rem;
+    }
+
+    .para-3 {
+        font-size: 1rem;
+    }
+
+    /* background */
+    .background {
+        position: relative;
+    }
+
+    .bg-image {
+        width: 100%;
+        height: 34rem;
+        background-position: center;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+
+    .cards {
+        display: flex;
+        gap: 0.1rem;
+        flex-direction: row;
+        flex-wrap: wrap;
+        width: 100%;
+        height: 34rem;
+        margin-top: -34rem;
+    }
+
+    .since {
+        width: 48%;
+        height: 10rem;
+        color: white;
+        position: relative;
+        top: 5rem;
+    }
+
+    .resturant {
+        width: 48%;
+        height: 10rem;
+        color: white;
+        position: relative;
+        top: 5rem;
+    }
+
+    .follower {
+        width: 48%;
+        height: 10rem;
+        color: white;
+        position: relative;
+        left: -24%;
+
+    }
+
+    .since img {
+        background-color: rgb(27, 238, 27);
+        color: white;
+        width: 5rem;
+        height: 5rem;
+        border-radius: 50%;
+        margin-top: -10rem;
+    }
+
+    .resturant img {
+        background-color: rgb(27, 238, 27);
+        color: white;
+        width: 5rem;
+        height: 5rem;
+        border-radius: 50%;
+        margin-top: -10rem;
+    }
+
+    .follower img {
+        background-color: rgb(27, 238, 27);
+        color: white;
+        width: 5rem;
+        height: 5rem;
+        border-radius: 50%;
+        margin-top: -10rem;
+    }
+
+    .heading-6 {
+        font-size: 1.2rem;
+        margin-top: -4rem;
+    }
+
+    /* our impact */
+    .heading-7 {
+        font-size: 2.5rem;
+    }
+
+    .planet-cards1 {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .fish-card {
+        width: 45%;
+    }
+
+    .local-card {
+        width: 45%;
+    }
+
+    .organic-card {
+        width: 45%;
+        position: relative;
+        left: -25%;
+    }
+
+    /* plant-card2 */
+    .planet-cards2 {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .pesticide-card {
+        width: 45%;
+        position: relative;
+        left: 50%;
+        top: -13.9rem;
+    }
+
+    .waste-card {
+        width: 45%;
+        position: relative;
+        right: 50%;
+        top: 2.5rem;
+    }
+
+    .logistics-card {
+        width: 45%;
+        position: relative;
+        left: 25%;
+        top: -13.9rem;
+    }
+
+    /* they-love */
+    .they-love {
+        margin-top: -10rem;
+        width: 100%;
+        height: 58rem;
+    }
+
+    .heading-9 {
+        font-size: 2.5rem;
+    }
+
+    .love-cards {
+        display: flex;
+        justify-content: center;
+        gap: 1.5rem;
+        flex-direction: column;
+    }
+
+    .love-card1 {
+        position: relative;
+        left: 6%;
+        width: 88%;
+    }
+
+    .love-card2 {
+        position: relative;
+        left: 6%;
+        width: 88%;
+    }
+
+    /* food-images */
+    .first-three {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .food1 {
+        width: 48%;
+    }
+
+    .food1 img {
+        width: 100%;
+        height: 17rem;
+    }
+
+    .food2 {
+        width: 48%;
+    }
+
+    .food2 img {
+        width: 100%;
+        height: 17rem;
+    }
+
+    .food3 {
+        width: 48%;
+    }
+
+    .food3 img {
+        width: 100%;
+        height: 17rem;
+    }
+
+    .second-three {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin-top: -5rem;
+    }
+
+    .food4 {
+        width: 48%;
+        position: relative;
+        top: -12rem;
+        left: 52%;
+    }
+
+    .food4 img {
+        width: 100%;
+        height: 17rem;
+    }
+
+    .food5 {
+        width: 48%;
+        position: relative;
+        right: 52%;
+        top: 6.7rem;
+    }
+
+    .food5 img {
+        width: 100%;
+        height: 17rem;
+    }
+
+    .food6 {
+        width: 48%;
+        position: relative;
+        top: -11.9rem;
+        left: 52%;
+    }
+
+    .food6 img {
+        width: 100%;
+        height: 17rem;
+    }
+
+    /* contacts */
+    .contacts {
+        position: relative;
+        top: -12rem;
+    }
+
+    .contact {
+        font-size: 2.5rem;
+    }
+
+    .contact-image {
+        width: 80%;
+        position: relative;
+        left: 4%;
+    }
+
+    .contact-image img {
+        height: 16.5rem;
+        width: 16.5rem;
+        border-radius: 50%;
+    }
+
+    .para-8 {
+        font-size: 1.5rem;
+    }
+
+    .form-group input {
+        padding: 0.6rem;
+        width: 50%;
+        background-color: rgb(233, 229, 229);
+    }
+
+    .submit-button {
+        width: 40%;
+    }
+
+    .contact-form {
+        width: 80%;
+        position: relative;
+        right: 4%;
+    }
+
+    /* footer */
+    .footer-nicepage {
+        margin-top: -11rem;
+    }
+}
